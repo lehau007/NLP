@@ -77,7 +77,7 @@ Navigate to the desired directory and follow the instructions provided in the re
 
 ```bash
 cd BERT
-python train.py
+python main.py
 ```
 
 > Ensure that you have the necessary datasets and configurations set up as per the instructions in each directory.
