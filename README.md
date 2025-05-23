@@ -1,4 +1,3 @@
-
 # NLP Training Tasks
 
 This repository encompasses a series of Natural Language Processing (NLP) training tasks, focusing on various models and techniques for Vietnamese language processing.
@@ -10,6 +9,7 @@ The repository is organized into the following directories:
 - **`BERT/`**: Implementations and experiments using BERT models.
 - **`BiLSTM_CNN_NER/`**: BiLSTM-CNN architecture for Named Entity Recognition tasks.
 - **`SVM/`**: Support Vector Machine models for text classification.
+- **`IELTS_Generation/`**: Fine-tuning GPT-2 models for generating IELTS-style essays.
 
 ## 🛠️ Technologies Used
 
